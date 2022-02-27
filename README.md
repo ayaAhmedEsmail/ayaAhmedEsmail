@@ -9,4 +9,7 @@ Here are some ideas to get you started:
 
 - 📫  feel free to reach me out through my LinkedIn: [Aya Esmail](https://www.linkedin.com/in/aya-esmail/) 
 
-
+<!--
+- <a href="https://github.com/ayaAhmedEsmail/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaAhmedEsmail&show_icons=true" />
+</a>-->
